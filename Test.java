@@ -1,7 +1,7 @@
 class Test 
 {
-	public void m2() 
+	public void m3() 
 	{
-		System.out.println("Inside m2()");
+		System.out.println("Inside m3()");
 	}
 }
